@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Ноутбук",
+        "price": 1200,
+        "image": "https://via.placeholder.com/200",
+        "description": "Мощный ноутбук для работы"
+    },
+    {
+        "id": 2,
+        "name": "Наушники",
+        "price": 150,
+        "image": "https://via.placeholder.com/200",
+        "description": "Беспроводные наушники"
+    }
+]
